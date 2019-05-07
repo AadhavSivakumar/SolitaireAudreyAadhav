@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FinalStack
+comment0.text=\r\n\ Adapts\ the\ CardStack\ to\ be\ used\ as\ the\ final\r\n\ (foundation)\ stack\r\n
+comment1.params=
+comment1.target=FinalStack()
+comment2.params=x\ y
+comment2.target=void\ setXY(int,\ int)
+comment3.params=p
+comment3.target=boolean\ contains(java.awt.Point)
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment4.text=\r\n\ We\ draw\ this\ stack\ one\ card\ on\ top\ of\ the\ other\r\n
+numComments=5

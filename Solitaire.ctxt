@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Solitaire
+comment1.params=c\ x\ y
+comment1.target=Card\ moveCard(Card,\ int,\ int)
+comment2.params=deltaScore
+comment2.target=void\ setScore(int)
+comment3.params=
+comment3.target=void\ updateTimer()
+comment4.params=
+comment4.target=void\ startTimer()
+comment5.params=
+comment5.target=void\ toggleTimer()
+comment6.params=
+comment6.target=void\ playNewGame()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
